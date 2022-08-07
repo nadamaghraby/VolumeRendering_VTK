@@ -3,6 +3,6 @@
 ### chest
 ![chest1_Trim](https://user-images.githubusercontent.com/61421659/183260131-ed82028f-b847-4db2-b4bb-93617715a4fc.gif)
 
-![ Alt text](chest3_Trim. gif) / ! [](chest3_Trim. gif)
+![chest3_Trim](chest3_Trim. gif) / ! [](chest3_Trim. gif)
 
 
